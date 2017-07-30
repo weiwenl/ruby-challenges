@@ -1,13 +1,13 @@
-#Ruby Challenges
+# Ruby Challenges
 
-##Getting Started
+## Getting Started
 
 * Fork and clone this repository
 * Run `bundle install` to install dependencies
   * Run `rubocop` to lint your code
   * Run `ruby lib/file_name.rb` to run your file
 
-##Requirements
+## Requirements
 
 Complete each challenge in a separate file. Each challenge should use gets and puts to prompt the user for input from the console.
 
