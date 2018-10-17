@@ -114,17 +114,17 @@ Your company wants to find out which customer is bringing the most business via 
     9: "8"
 }
 ```
-####### Task
+###### Task
 1. Model the above test data using trees.
 2. Write a function that finds the person with the most number of referrals, and how many people he has referred.
 ```
 Expected output: "1, 4"
 ```
 
-####### Furtherer: Binary Search Tree (BST)
+###### Furtherer: Binary Search Tree (BST)
 Implement a Binary-Search Tree (https://en.wikipedia.org/wiki/Binary_search_tree), as an extension of the Binary Search algorithm that you've previously implemented.
 
-####### Furtherest: Trie (Digital Tree)
+###### Furtherest: Trie (Digital Tree)
 Implement a trie (https://en.wikipedia.org/wiki/Trie) and use it to model the words in the wordlist at https://starbeamrainbowlabs.com/wordlists/enable1.txt. You might want to test your code with only the words that start with 'a'. Then, given the string "adsor", return list of possible autocompletions. Compare the computing cost of a trie for this problem to using the `.filter()` method.
 
 ---
